@@ -1,0 +1,11 @@
+nav, ul{
+    display: flex;
+    
+}
+ul{
+    gap: 34px;
+}
+li{
+    list-style-type: none;
+    font-size: 25px;
+}
